@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Bhupendra simha</h1>
+<h1 align="center">Hi 👋, I'm Bhupendra Simha</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 🌱 I’m currently learning **MongoDB and Express.js**
