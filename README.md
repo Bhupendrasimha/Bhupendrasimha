@@ -1,12 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Bhupendra Simha</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
-- 🌱 I’m currently learning **MongoDB and Express.js**
-
-- 👯 I’m looking to collaborate on **React.js**
-
-- 💬 Ask me about **anything**
 
 - 📫 How to reach me **bhupendrasimha@gmail.com**
 
